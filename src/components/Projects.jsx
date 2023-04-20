@@ -26,7 +26,7 @@ export default function Project() {
                         <h3>{projects.title}</h3>
                         <p>{projects.url}</p>
                         <p>{projects.content}</p>
-                        <img src={projects.image}></img>
+                        <img src={projects.image} id="projimg"></img>
                         <hr></hr>
                     </li>
                 ))}

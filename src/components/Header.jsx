@@ -14,10 +14,13 @@ export default function Header() {
                     <a  href="/about">About</a>
                 </li>
                 <li>
-                    <a  href="#Education">ed</a>
+                    <a  href="#Education">Education</a>
                 </li>
                 <li>
-                    <a  href="#Social">soc</a>
+                    <a  href="#Projects">Projects</a>
+                </li>
+                <li>
+                    <a  href="#Social">Socials</a>
                 </li>
             </ul>
     </header>
